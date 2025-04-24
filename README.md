@@ -1,2 +1,4 @@
 # ejemplo_c3e1
-Ejemplo del uso de git y github
+Este es un teto de ejemplo para este experimiento
+
+
